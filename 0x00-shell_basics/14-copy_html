@@ -1,0 +1,3 @@
+#!/bin/bash
+cd ..
+cp -u --preserve=timestamps -r "$(pwd)"/*.html .
